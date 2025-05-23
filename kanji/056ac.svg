@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Copyright (C) 2009/2010/2011 Ulrich Apel.
+This work is distributed under the conditions of the Creative Commons
+Attribution-Share Alike 3.0 Licence. This means you are free:
+* to Share - to copy, distribute and transmit the work
+* to Remix - to adapt the work
+
+Under the following conditions:
+* Attribution. You must attribute the work by stating your use of KanjiVG in
+  your own copyright header and linking to KanjiVG's website
+  (http://kanjivg.tagaini.net)
+* Share Alike. If you alter, transform, or build upon this work, you may
+  distribute the resulting work only under the same or similar license to this
+  one.
+
+See http://creativecommons.org/licenses/by-sa/3.0/ for more details.
+-->
+
+<svg
+   width="109"
+   height="109"
+   viewBox="0 0 109 109"
+   version="1.1"
+   id="svg74"
+   sodipodi:docname="056ac.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:kvg="http://kanjivg.tagaini.net">
+  <defs
+     id="defs78" />
+  <sodipodi:namedview
+     id="namedview76"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="4.0869475"
+     inkscape:cx="24.957502"
+     inkscape:cy="-7.5851232"
+     inkscape:window-width="2560"
+     inkscape:window-height="1328"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg74" />
+  <g
+     id="kvg:07015-g2"
+     kvg:element="頻"
+     kvg:position="right"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round">
+    <g
+       id="kvg:07015-g3"
+       kvg:element="歩"
+       kvg:position="left">
+      <g
+         id="kvg:07015-g4"
+         kvg:element="止"
+         kvg:position="top">
+        <g
+           id="kvg:07015-g5"
+           kvg:element="卜"
+           kvg:original="ト">
+          <path
+             id="kvg:07015-s4"
+             kvg:type="㇑a"
+             d="m 47.09,14 c 0.87,0.42 1.41,1.94 1.58,2.81 0.18,0.87 0.31,21.59 0.17,27.05" />
+          <path
+             id="kvg:07015-s5"
+             kvg:type="㇐b/㇔"
+             d="m 49.27,29.41 c 5.69,-0.74 3.1,-0.89 9.09,-1.42 1.39,-0.12 1.74,-0.24 2.62,-0.04" />
+        </g>
+        <path
+           id="kvg:07015-s6"
+           kvg:type="㇑a"
+           d="m 36.89,25.48 c 0.88,0.42 1.41,1.94 1.59,2.81 0.18,0.87 0.57,12.21 0.43,17.67" />
+        <path
+           id="kvg:07015-s7"
+           kvg:type="㇐"
+           d="m 30.46,46.81 c 0.41,0.13 1.5,0.43 2.59,0.37 5.87,-0.36 20.86,-3.97 28.3,-4.32 1.09,-0.05 2.47,0.23 3.09,0.35" />
+      </g>
+      <g
+         id="kvg:07015-g6"
+         kvg:element="少"
+         kvg:position="bottom">
+        <g
+           id="kvg:07015-g7"
+           kvg:element="小">
+          <path
+             id="kvg:07015-s8"
+             kvg:type="㇚"
+             d="m 48.43,46.5 c 0.07,0.24 0.95,1.24 1.01,2.75 0.32,7.25 -0.21,18.22 -0.21,20.69 0,7.06 -1.85,4.18 -4.65,0.81" />
+          <path
+             id="kvg:07015-s9"
+             kvg:type="㇒"
+             d="m 39.44,56 c 0.03,0.42 0.11,1.12 -0.06,1.7 -1.24,4.23 -6.49,12.4 -10.75,16.3" />
+        </g>
+        <path
+           id="kvg:07015-s10"
+           kvg:type="㇒"
+           d="m 62.646793,60.691896 c 0.08,0.69 0.06198,1.954256 -0.16,2.79 C 58.296269,79.258911 44.892145,89.671907 29.81,96" />
+      </g>
+    </g>
+    <g
+       id="kvg:07015-g8"
+       kvg:element="頁"
+       kvg:position="right">
+      <g
+         id="kvg:07015-g9"
+         kvg:position="top">
+        <path
+           id="kvg:07015-s11"
+           kvg:type="㇐"
+           d="m 66.3,20.53 c 0.67,0.49 1.91,0.55 2.59,0.49 8.68,-0.82 20.4,-2.6 26.87,-3.24 1.12,-0.11 2.56,0.23 3.13,0.48" />
+        <path
+           id="kvg:07015-s12"
+           kvg:type="㇒"
+           d="m 81.8,22.07 c 0.01,0.28 0.03,0.73 -0.02,1.14 -0.29,2.4 -1.99,7.65 -4.31,10.87" />
+      </g>
+      <g
+         id="kvg:07015-g10"
+         kvg:element="貝"
+         kvg:position="bottom">
+        <g
+           id="kvg:07015-g11"
+           kvg:element="目"
+           kvg:position="top">
+          <path
+             id="kvg:07015-s13"
+             kvg:type="㇑"
+             d="m 68.59,36.78 c 0.38,1 0.93,1.74 0.93,3.07 0,1.33 -0.25,39.87 -0.25,40.53" />
+          <path
+             id="kvg:07015-s14"
+             kvg:type="㇕a"
+             d="m 70.14,37.6 c 4.52,-0.51 19.42,-2.19 21.36,-2.39 1.62,-0.17 2.89,1.84 2.76,3.07 -0.17,1.56 -0.36,39.68 -0.36,40.67" />
+          <path
+             id="kvg:07015-s15"
+             kvg:type="㇐a"
+             d="M 70.1,50.15 C 76.62,49.16 88.61,48.4 93.18,48.04" />
+          <path
+             id="kvg:07015-s16"
+             kvg:type="㇐a"
+             d="m 70.28,63.37 c 7.48,-0.62 16.28,-0.94 22.1,-1.41" />
+          <path
+             id="kvg:07015-s17"
+             kvg:type="㇐a"
+             d="m 69.58,77.03 c 7.55,-0.78 17.14,-0.85 23.35,-1.35" />
+        </g>
+        <g
+           id="kvg:07015-g12"
+           kvg:element="八"
+           kvg:position="bottom">
+          <path
+             id="kvg:07015-s18"
+             kvg:type="㇒"
+             d="m 74.05,83.91 c 0.47,1.07 -0.09,2.3 -1.02,3.08 -2.79,2.36 -11.56,7.21 -17.14,10" />
+          <path
+             id="kvg:07015-s19"
+             kvg:type="㇔"
+             d="m 86.27,83.88 c 5.06,3.37 11.04,9.49 12.42,12.44" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="kvg:055ab-g1"
+     kvg:element="口"
+     kvg:position="left"
+     kvg:radical="general"
+     style="font-size:8px;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     transform="translate(-8.1746352,6.0029422)">
+    <path
+       id="kvg:055ab-s1"
+       kvg:type="㇑"
+       d="m 12.75,34.07 c 0.79,0.65 1.24,1.48 1.36,2.49 0.89,4.93 1.56,9.69 2.38,15.15 0.24,1.6 0.46,3.14 0.65,4.53" />
+    <path
+       id="kvg:055ab-s2"
+       kvg:type="㇕b"
+       d="m 14.95,35.14 c 4.05,-0.79 9.65,-1.68 14.07,-2.22 2.81,-0.34 4.41,0.17 3.78,3.22 -0.86,4.16 -1.43,7.61 -2.62,14.1" />
+    <path
+       id="kvg:055ab-s3"
+       kvg:type="㇐b"
+       d="m 17.83,53.18 c 4.3,-0.45 5.79,-0.84 9.96,-1.41 1.07,-0.15 2.31,-0.31 3.83,-0.48" />
+  </g>
+  <g
+     id="g2081">
+    <text
+       id="text41"
+       style="font-size:8px;fill:#808080"
+       x="38.5"
+       y="14.5">4</text>
+    <text
+       id="text43"
+       style="font-size:8px;fill:#808080"
+       x="52.5"
+       y="26.5">5</text>
+    <text
+       id="text45"
+       style="font-size:8px;fill:#808080"
+       x="32.5"
+       y="23.5">6</text>
+    <text
+       id="text47"
+       style="font-size:8px;fill:#808080"
+       x="26.75"
+       y="45.5">7</text>
+    <text
+       id="text49"
+       style="font-size:8px;fill:#808080"
+       x="41.75"
+       y="53.5">8</text>
+    <text
+       id="text51"
+       style="font-size:8px;fill:#808080"
+       x="31.5"
+       y="57.5">9</text>
+    <text
+       id="text53"
+       style="font-size:8px;fill:#808080"
+       x="54.619999"
+       y="57.849998">10</text>
+    <text
+       id="text55"
+       style="font-size:8px;fill:#808080"
+       x="64.5"
+       y="17.5">11</text>
+    <text
+       id="text57"
+       style="font-size:8px;fill:#808080"
+       x="70.75"
+       y="28.5">12</text>
+    <text
+       id="text59"
+       style="font-size:8px;fill:#808080"
+       x="58.75"
+       y="39.650002">13</text>
+    <text
+       id="text61"
+       style="font-size:8px;fill:#808080"
+       x="67.5"
+       y="34.5">14</text>
+    <text
+       id="text63"
+       style="font-size:8px;fill:#808080"
+       x="73.459999"
+       y="46.5">15</text>
+    <text
+       id="text65"
+       style="font-size:8px;fill:#808080"
+       x="73.5"
+       y="60.5">16</text>
+    <text
+       id="text67"
+       style="font-size:8px;fill:#808080"
+       x="73.470001"
+       y="74.349998">17</text>
+    <text
+       id="text69"
+       style="font-size:8px;fill:#808080"
+       x="61.75"
+       y="87.5">18</text>
+    <text
+       id="text71"
+       style="font-size:8px;fill:#808080"
+       x="79.5"
+       y="90.5">19</text>
+    <text
+       id="text1545"
+       style="font-size:8px;fill:#808080"
+       x="0.075364798"
+       y="51.132942">1</text>
+    <text
+       id="text1547"
+       style="font-size:8px;fill:#808080"
+       x="7.3253646"
+       y="37.632942">2</text>
+    <text
+       id="text1549"
+       style="font-size:8px;fill:#808080"
+       x="12.075365"
+       y="55.55294">3</text>
+  </g>
+</svg>
